@@ -1,8 +1,9 @@
-# React + Vite
+# Gemini - Google AI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a clone of the Google AI Gemini app. This app has been built in React and will require an API key. 
 
-Currently, two official plugins are available:
+You can obtain an api key here: https://aistudio.google.com/app/apikey
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Once your api key has been obtained, clone this repo and paste your api key in the gemini.js file located here: geminiClone/src/config/gemini.js
+
+Paste your api key in the string that says "YOUR API KEY HERE"
